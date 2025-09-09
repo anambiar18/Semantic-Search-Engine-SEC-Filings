@@ -1,0 +1,10 @@
+FastAPI
+psycopg2
+sentence-transformers
+pgvector
+uvicorn
+pydantic
+numpy
+scikit-learn
+pytest
+httpx
